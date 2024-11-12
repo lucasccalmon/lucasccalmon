@@ -1,4 +1,4 @@
-## Hi there 👋
+## ola 👋
 
 <!--
 **lucasccalmon/lucasccalmon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+sim sou eu. o homem ciencia de dados. o mister python. o master coder. o rei das cobras.
+no momento estudando futebol e o uso de dados na área
+
